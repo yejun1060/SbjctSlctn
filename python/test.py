@@ -1,9 +1,7 @@
 import valueList
 
-
 Src = valueList.SrcVl
 
-# sadjksdjkajsdk
 
 while True:
     data = input("값을 입력하세요: ")
