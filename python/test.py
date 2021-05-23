@@ -1,7 +1,7 @@
-import valueList
+import valueList as List
 
 
-Src = valueList.SrcVl
+Src = List.SrcVl
 
 while True:
     data = input("값을 입력하세요: ")
@@ -17,5 +17,3 @@ while True:
     except:
         print("존재하지 않는 과목명 입니다." + "(" + data + ")")
     print("-----------------------------------")
-
-
