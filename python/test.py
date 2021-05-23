@@ -120,6 +120,8 @@ dic = {'연극': 'CFAC',
 
 
 
+# sadjksdjkajsdk
+
 while True:
     data = input("값을 입력하세요: ")
     data_list = []
